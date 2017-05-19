@@ -1,2 +1,4 @@
-#never used this before
-[testing url](http://google.com)
+# CNBlackXP
+## This is my github website
+
+[Dummy Page](https://cnblackxp.github.io/dummy/)
