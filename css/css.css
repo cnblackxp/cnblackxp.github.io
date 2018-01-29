@@ -1,0 +1,56 @@
+.navbar {
+    margin-bottom: 10px;
+    border-radius: 0;
+}
+
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    width: 100%;
+}
+
+.navbar {
+    background-color: #3A539B;
+    color: #F62459;
+    border: 0;
+}
+
+.navbar-nav>li>a {
+    color: #eeeeee;
+}
+
+.navbar-nav>li>a:hover,
+.navbar-nav>.active>a {
+    color: #3A539B;
+    background-color: #eeeeee;
+}
+
+.icon-bar {
+    background-color: #eeeeee;
+}
+
+.navbar-brand {
+    color: #eeeeee;
+}
+
+.navbar-brand:active {
+    color: #eeeeee;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+pre {
+    white-space: pre-wrap;
+    /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+}
