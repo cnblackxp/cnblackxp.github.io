@@ -6,7 +6,8 @@
 .fixed-bottom {
     position: fixed;
     bottom: 0;
-    background-color: white;
+    background-color: #3A539B;
+    color: #eeeeee;
     width: 100%;
 }
 
