@@ -75,3 +75,28 @@ body, html {
   text-decoration: none;
   color: rgb(144, 144, 255);
 }
+
+.fancy-list {
+  list-style-type: none;
+}
+
+.fancy-list li a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.fancy-list li {
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  padding: 5px 20px;
+  border-bottom: 3px solid #666;
+  transition: all 0.25s;
+}
+
+.fancy-list li:hover {
+  background-color: #666;
+  color: white;
+  transition: all 0.25s;
+}
