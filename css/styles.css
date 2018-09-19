@@ -91,12 +91,12 @@ body, html {
   margin-right: 20px;
   margin-bottom: 10px;
   padding: 5px 20px;
-  border-bottom: 3px solid #666;
-  transition: all 0.25s;
+  border-bottom: 3px solid white;
+  transition: all 0.5s;
 }
 
 .fancy-list li:hover {
-  background-color: #666;
-  color: white;
-  transition: all 0.25s;
+  background-color: white;
+  color: #666;
+  transition: all 0.5s;
 }
