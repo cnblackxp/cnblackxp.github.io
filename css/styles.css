@@ -107,11 +107,6 @@ h4 {
   letter-spacing: 5px;
 } */
 
-.section.header h4 a {
-  text-decoration: none;
-  color: rgb(144, 144, 255);
-}
-
 .fancy-list {
   list-style-type: none;
 }
@@ -174,4 +169,20 @@ h4 {
 
 .icons a {
   padding: 0 20px;
+}
+
+
+
+.clean-link {
+  text-decoration: none;
+  color: rgb(144, 144, 255);
+}
+
+.company {
+  display: flex;
+  align-items: center;
+}
+
+.company div {
+  margin-left: 20px;
 }
