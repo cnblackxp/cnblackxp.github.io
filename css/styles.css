@@ -181,6 +181,7 @@ h4 {
 .company {
   display: flex;
   align-items: center;
+  height: 48px;
 }
 
 .company div {
